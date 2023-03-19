@@ -1,0 +1,21 @@
+:root {
+    --aqua: rgb(51, 225, 236);
+    --black: rgb (66,56,56);
+}
+
+
+.logo-hive {
+    color: var(--aqua);
+}
+
+section {
+    padding-top: 50px;
+}
+
+.buyer-option {
+    color: var(--black);
+}
+
+.buyer-option :hover {
+    color: black;
+}
